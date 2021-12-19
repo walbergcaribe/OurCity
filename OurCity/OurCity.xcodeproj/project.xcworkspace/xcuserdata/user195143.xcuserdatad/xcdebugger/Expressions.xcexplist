@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CityProblemViewController.prepareScreen():CityProblemViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "problem.name">
+            </PersistentString>
+            <PersistentString
+               value = "problem.date">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CityProblemFormViewController.save(_:):CityProblemFormViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "problem?.date">
+            </PersistentString>
+            <PersistentString
+               value = "textFieldName.text">
+            </PersistentString>
+            <PersistentString
+               value = "datePickerData.date">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
